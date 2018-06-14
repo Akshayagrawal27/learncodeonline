@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">LearnCodeOnline</string>
+    <string name="no_internet_connection">No Internet Connection</string>
+    <string name="no_data">No Data</string>
+    <string name="splash_loc">LearnCodeOnline.in</string>
+    <string name="app_type">Interview Preparation App</string>
+    <string name="made_in_india">Made In India With</string>
+    <string name="best_courses">Best Online Programming Courses</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+    <string name="data_structure">Data Structure</string>
+</resources>
